@@ -8,9 +8,7 @@ I am Full Stack Web Developer, actually focusing a lot on blockchain development
 ## What I do in my free time? ⚡ -  
   - Listening Music 60% of the time that I'm awake.⭐️
   - Playing the piano. 🎹
-  - Buying Crypto and investing in NFT games. 💸
-  - Playing LoL or any other videogame. 👾
-
+  - Eating gummies. 🍬
 ## My GitHub Stats -
   
   ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=AlanRacciatti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
