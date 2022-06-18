@@ -1,15 +1,14 @@
-## Hey! It's Alan here 👋
-I am Full Stack Web Developer, actually focusing on blockchain development 🖥️
+## Hi there! I'm Alan Racciatti
+I am a Smart Contract/Blockchain software developer. I'm currently looking for working in blockchain-related projects so please let me know if I can help you with anything by contacting me :)
 
-- ☀️ Learning and Developing Blockchain based projects in React.js + Solidity.
-- 🔎 Exploring technologies that I consider interesting.
+[![Alan Racciatti Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-racciatti/)
+
+- ☀️ Developing Blockchain based projects in React.js + Solidity.
 - 🌙 Contributing to Open Source projects.
+- 🔎 Learning, learning, learning!
 
-## What I do in my free time? ⚡ -  
-  - Listening Music 60% of the time that I'm awake.⭐️
-  - Playing the piano. 🎹
-  - Eating gummies. 🍬
-## My GitHub Stats -
+
+## My GitHub Stats 📊 -
   
   ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=AlanRacciatti&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
 </br>
