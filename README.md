@@ -57,9 +57,6 @@ I am a Smart Contract/Blockchain software developer. I'm currently looking for w
 <a href="https://www.linkedin.com/in/alan-racciatti-928401225/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/alanracciatti/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 </br>
 
 #### Discord: Chiin#4895
